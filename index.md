@@ -1,4 +1,10 @@
-## Welcome to my website
+## Who am I?
+
+```markdown
+Cory Goodhind
+Year 2 Games Technology student at UwE
+Cory2.Goodhind@live.uwe.ac.uk
+```
 
 ### My research into the role of a level designer
 
@@ -61,3 +67,4 @@ Skills that a level designer might have include
     commitment and focus to complete every task to a high standard
     
     mathematical and analytical understanding
+```
