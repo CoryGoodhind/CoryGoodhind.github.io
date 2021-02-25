@@ -36,12 +36,19 @@ What qualifications/skills should a level designer have?
 Although you don't need a degree to become a game designer
 the majority of game designers do have a degree. 
 Games-specific degrees are particularly useful, Relevant subjects include:
+
     computer games art
+    
     computer games design
+    
     computer games development
+    
     computer games technology
+    
     computer science
+    
     mathematics.
+    
 Skills that a level designer might have include
 
     technical ability, familiarisation with a range of programming languages such as C#, C++ and Python
